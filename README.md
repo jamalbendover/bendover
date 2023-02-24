@@ -1,1 +1,5 @@
-<iframe src="/en/whack-your-ex/iframe" id="iframe" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" width="100%" height="100%" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" msallowfullscreen="true"></iframe>
+link to sit: https://f.silvergames.com/ruffle/player.php?id=344
+Explore this data story. . .
+<iframe id="ruffle" width="100%" height="100%" src="https://f.silvergames.com/ruffle/player.php?id=344" frameborder="0" scrolling="no">
+    </body>
+</html></iframe> 
